@@ -1,12 +1,14 @@
 ### Hi, I'm Eyal Lapid 👋
 
-I'm a specialist building POC and MVP projects for companies and startups in the areas of web and application development. I do hands on development which I love and tech leading. I bring added value to projects in the areas of:
+I specialize in building POC and MVP projects for companies and startups in the areas of web and application development.
+I do hands on development which I love and tech leading. 
 
-* MVP architecture designs
-* React
-* Angular 1 & 2
-* Node
-* Ethereum & Bitcoin Programning 
+I bring added value to projects in the areas of:
+
+* MVP architectures
+* React, AngularJs & Angular
+* NodeJs
+* Ethereum & Bitcoin programming
 * Elixir
 
 <!--
