@@ -8,8 +8,6 @@ I bring added value to projects in the areas of:
 * MVP architectures
 * React, AngularJs & Angular
 * NodeJs
-* Ethereum & Bitcoin programming
-* Elixir
 
 <!--
 **elpddev/elpddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
